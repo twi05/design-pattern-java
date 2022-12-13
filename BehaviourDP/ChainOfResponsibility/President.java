@@ -1,4 +1,4 @@
-package BehaviourDP;
+package BehaviourDP.ChainOfResponsibility;
 
 public class President extends LoanApprover {
     public void approveLoan(Loan loan) {

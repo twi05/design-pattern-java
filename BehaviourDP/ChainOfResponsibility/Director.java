@@ -1,4 +1,4 @@
-package BehaviourDP;
+package BehaviourDP.ChainOfResponsibility;
 
 public class Director extends LoanApprover {
 

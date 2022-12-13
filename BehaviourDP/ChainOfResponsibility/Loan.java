@@ -1,9 +1,9 @@
-package BehaviourDP;
+package BehaviourDP.ChainOfResponsibility;
 
 public class Loan {
     public double amount;
 
-    Loan(double amt){
+    Loan(double amt) {
         amount = amt;
     }
 
